@@ -4,9 +4,9 @@ import About from './pages/about'
 import {Routes, Route } from 'react-router'
 import './App.css'
 
-function App() {
+function App(){
 
-  return (
+  return(
     <>
      <NavBar/>
      <Routes>
