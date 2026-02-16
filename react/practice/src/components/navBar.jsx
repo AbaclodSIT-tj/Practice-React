@@ -3,7 +3,8 @@ export const NavBar=()=>{
     return(
         <>
         <Link to="/">Home</Link><br />
-        <Link to="/about">about</Link>
+        <Link to="/about">about</Link> <br />
+        <Link to="/Adding">Add Up</Link>
         </>
     );
 }
