@@ -30,9 +30,6 @@ First installment of REACT InstRUCTION BELOW:
 (\/)
 
 (>w<)
-<<<<<<< HEAD
 
 (>P<).
-=======
 (>P<).
->>>>>>> 074d602967a296aad2772387fb3a6af6228caf4a
